@@ -235,7 +235,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Pietro Medeiros**
-- GitHub: [@pietrogmedeiros](https://github.com/pietrogmedeiros)
 - LinkedIn: [Pietro Medeiros](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
 
 ## 🙏 Agradecimentos
