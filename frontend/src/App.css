@@ -1,0 +1,55 @@
+.App {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.dashboard-layout {
+  min-height: 100vh;
+}
+
+.dashboard-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-align: center;
+  padding: 0 50px;
+}
+
+.dashboard-header h1 {
+  color: white;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.dashboard-content {
+  padding: 24px;
+}
+
+.kpi-row {
+  margin-bottom: 24px;
+}
+
+.analytics-row {
+  margin-bottom: 24px;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.ant-card {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-statistic-title {
+  font-weight: 500;
+}
+
+.ant-statistic-content {
+  font-size: 24px;
+  font-weight: 600;
+}
